@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi%20There!%20I'm%20Kavana%20M%20P%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=58&descSize=18" width="100%"/>
 </div>
-<div align="center">
-Show Image
-</div>
 <br/>
 
 ---
