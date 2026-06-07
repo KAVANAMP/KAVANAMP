@@ -2,6 +2,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi%20There!%20I'm%20Kavana%20M%20P%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=58&descSize=18" width="100%"/>
 </div>
 <br/>
+</div>
+<br/>
+<p align="center"><em>✨ "Code is not just logic — it's a bridge to a better world." ✨</em></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kavana-m-p-480617339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kavanapacharya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/KAVANAMP">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<br/>
 
 ---
 
