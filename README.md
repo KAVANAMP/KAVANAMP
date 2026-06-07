@@ -1,12 +1,15 @@
-<h1 align="center">Hi there, I'm Kavana M P 👋</h1>
-
-<p align="center">
-  <em>Computer Science Student &nbsp;•&nbsp; Web Developer &nbsp;•&nbsp; Accessibility Tech Enthusiast</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+meaningful+tech+solutions;Passionate+about+accessibility;Learning+DSA+every+day;Open+to+collaborate!" alt="Typing SVG" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi%20There!%20I'm%20Kavana%20M%20P%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=58&descSize=18" width="100%"/>
+</div>
+<div align="center">
+Show Image
+</div>
+<div align="center">
+Show Image
+Show Image
+Show Image
+</div>
+<br/>
 
 ---
 
