@@ -85,8 +85,7 @@ Show Image
 
 ---
 
-## 🌐 Connect with Me
-
+🌐 Connect with Me
 <p align="left">
   <a href="https://github.com/KAVANAMP">
     <img src="https://img.shields.io/badge/GitHub-KAVANAMP-181717?style=for-the-badge&logo=github"/>
@@ -100,7 +99,6 @@ Show Image
     <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a> -->
 </p>
-
 ---
 
 <p align="center">
