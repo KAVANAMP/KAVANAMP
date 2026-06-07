@@ -4,11 +4,6 @@
 <div align="center">
 Show Image
 </div>
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
 <br/>
 
 ---
