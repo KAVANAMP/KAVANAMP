@@ -42,7 +42,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,py,js,c" height="50"/>
+<img src="https://skillicons.dev/icons?i=java,py,js,c" height="50"/>
 
 <br/>
 
@@ -60,7 +60,7 @@
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv" height="50"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,opencv" height="50"/>
 
 </div>
 
