@@ -27,12 +27,12 @@
 | | |
 |---|---|
 | 🎓 **Education** | B.E. in Computer Science & Engineering, CGPA 8.7 |
-| 📱 **Focus Areas** | Android Development (Kotlin, Jetpack Compose, Firebase) & Full Stack Web |
+| 📱 **Focus Areas** |Full Stack Web |
 | 🏘️ **Flagship Project** | Grama Angana — full-stack Android community hall booking app |
 | 🦾 **AI Project** | Braille-to-Text & Voice Translator for visually impaired users |
 | 💼 **Experience** | Internships at MindMatrix (Android), Corizo Edutech (Web Dev), Besant Technologies (Java Full Stack) |
 | 📚 **Currently Learning** | React.js & advanced Data Structures & Algorithms |
-| 🤝 **Looking For** | Software Engineering / Android Developer roles |
+| 🤝 **Looking For** | Software Engineering  |
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,py,js,c" height="50"/>
+<img src="https://skillicons.dev/icons?i=java,py,c" height="50"/>
 
 <br/>
 
@@ -60,7 +60,7 @@
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv" height="50"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,opencv" height="50"/>
 
 </div>
 
