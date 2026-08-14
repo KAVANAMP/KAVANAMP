@@ -27,12 +27,12 @@
 | | |
 |---|---|
 | 🎓 **Education** | B.E. in Computer Science & Engineering, CGPA 8.7 |
-| 📱 **Focus Areas** | Full Stack Web |
+| 📱 **Focus Areas** | Android Development (Kotlin, Jetpack Compose, Firebase) & Full Stack Web |
 | 🏘️ **Flagship Project** | Grama Angana — full-stack Android community hall booking app |
 | 🦾 **AI Project** | Braille-to-Text & Voice Translator for visually impaired users |
 | 💼 **Experience** | Internships at MindMatrix (Android), Corizo Edutech (Web Dev), Besant Technologies (Java Full Stack) |
 | 📚 **Currently Learning** | React.js & advanced Data Structures & Algorithms |
-| 🤝 **Looking For** | Software Engineering roles |
+| 🤝 **Looking For** | Software Engineering / Android Developer roles |
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,py,c" height="50"/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,py,js,c" height="50"/>
 
 <br/>
 
@@ -60,7 +60,7 @@
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=github,vscode,opencv" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv" height="50"/>
 
 </div>
 
@@ -107,13 +107,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAVANAMP&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KAVANAMP&show_icons=true&theme=chartreuse-dark&hide_border=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVANAMP&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVANAMP&layout=compact&theme=chartreuse-dark&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVANAMP&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVANAMP&theme=gruvbox&hide_border=true&background=1B1F23&ring=39D353&fire=39D353&currStreakLabel=39D353"/>
 </p>
 
 ---
