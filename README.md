@@ -42,7 +42,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,py,js,c" height="50"/>
+<img src="https://skillicons.dev/icons?i=java,py,c" height="50"/>
 
 <br/>
 
