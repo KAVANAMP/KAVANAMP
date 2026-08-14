@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://kavanamp.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/KAVANAMP">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -34,7 +30,7 @@
 | 📱 **Focus Areas** | Android Development (Kotlin, Jetpack Compose, Firebase) & Full Stack Web |
 | 🏘️ **Flagship Project** | Grama Angana — full-stack Android community hall booking app |
 | 🦾 **AI Project** | Braille-to-Text & Voice Translator for visually impaired users |
-| 💼 **Experience** | Internships at MindMatrix (Android), Corizo Edutech (Full Stack), Besant Technologies (Java Full Stack) |
+| 💼 **Experience** | Internships at MindMatrix (Android), Corizo Edutech (Web Dev), Besant Technologies (Java Full Stack) |
 | 📚 **Currently Learning** | React.js & advanced Data Structures & Algorithms |
 | 🤝 **Looking For** | Software Engineering / Android Developer roles |
 
@@ -46,26 +42,43 @@
 <tr>
 <td valign="top" width="50%">
 
-**Languages**
-Kotlin · Java · Python · JavaScript · C
+**💻 Programming Languages**
+<br/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-**Android Development**
-Android Studio · Jetpack Compose · MVVM · Material Design 3 · Room DB · Navigation Component
+**📱 Android Development**
+<br/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge&logo=android&logoColor=white"/>
 
-**Web Development**
-HTML5 · CSS3 · JavaScript (ES6+) · React.js · REST APIs
+**🌐 Web & UI Development**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 </td>
 <td valign="top" width="50%">
 
-**Databases**
-Firebase (Firestore) · MySQL · Room DB
+**🗄️ Databases**
+<br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-**Tools & Platforms**
-Git · GitHub · VS Code · Netlify · Google AI Studio
-
-**Other**
-OpenCV · Image Processing · Generative AI Tools
+**🔧 Tools & Technologies**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </td>
 </tr>
@@ -73,64 +86,74 @@ OpenCV · Image Processing · Generative AI Tools
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-**[Grama Angana](https://github.com/KAVANAMP/Grama-Angana)**
-Full-stack Android community hall booking system with anti-double-booking scheduling, two-role authentication (Admin/Member), an admin panel, and a crowdfunding module for maintenance funds.
-`Kotlin` `Jetpack Compose` `Firebase` `MVVM`
-
-**[Braille-to-Text & Voice Translator](https://github.com/KAVANAMP/Braille-To-Text-and-voice-Translator)**
-Converts Braille images into text and speech output to assist visually impaired users, using image processing and text-to-speech.
-`Python` `OpenCV` `Text-to-Speech`
-
-**[Portfolio Website](https://github.com/KAVANAMP/Portfolio)**
-Personal portfolio site showcasing projects, technical skills, and resume.
-`HTML` `CSS` `JavaScript`
-
-**[CRUD Application](https://github.com/KAVANAMP/Crud-Application)**
-A complete Create, Read, Update, Delete web application.
-`HTML` `CSS` `JavaScript`
-
-**[Quiz App – DynamixNetworks](https://github.com/KAVANAMP/DynamixNetworks_Quiz_App)**
-An interactive quiz application built for DynamixNetworks.
-`JavaScript`
-
-**[DSA Learnings](https://github.com/KAVANAMP/DSA_learnings)**
-Ongoing collection of Data Structures and Algorithms problems, solutions, and notes.
-`Python` `Java`
+### 🦾 [Braille-To-Text-and-Voice-Translator](https://github.com/KAVANAMP/Braille-To-Text-and-voice-Translator)
+> Converting Braille images into text and voice output to assist visually impaired individuals.  
+> **Tech:** Python | Image Processing | Text-to-Speech
 
 ---
 
-## GitHub Stats
+### 🌐 [Portfolio Website](https://github.com/KAVANAMP/Portfolio)
+> My personal portfolio showcasing projects, skills, and resume.  
+> **Tech:** HTML | CSS | JavaScript
+
+---
+
+### 📝 [CRUD Application](https://github.com/KAVANAMP/Crud-Application)
+> A full-featured Create, Read, Update, Delete web application.  
+> **Tech:** HTML | CSS | JavaScript
+
+---
+
+### 🧠 [Quiz App – DynamixNetworks](https://github.com/KAVANAMP/DynamixNetworks_Quiz_App)
+> An interactive quiz application built for DynamixNetworks.  
+> **Tech:** JavaScript
+
+---
+
+### 🏘️ [Grama-Angana](https://github.com/KAVANAMP/Grama-Angana)
+> A Java-based application for village/community management.  
+> **Tech:** Java
+
+---
+
+### 📖 [DSA Learnings](https://github.com/KAVANAMP/DSA_learnings)
+> My journey through Data Structures and Algorithms — problems, solutions, and notes.  
+> **Tech:** Python / Java
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAVANAMP&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KAVANAMP&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVANAMP&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVANAMP&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVANAMP&theme=default&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVANAMP&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Connect
-
+🌐 Connect with Me
 <p align="left">
   <a href="https://github.com/KAVANAMP">
-    <img src="https://img.shields.io/badge/GitHub-KAVANAMP-333333?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-KAVANAMP-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kavana-m-p-480617339/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kavana_M_P-333333?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Kavana_M_P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:kavanapacharya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kavanapacharya@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-kavanapacharya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KAVANAMP&label=Profile+Views&color=333333&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=KAVANAMP&label=Profile+Views&color=6C63FF&style=flat" alt="profile views"/>
 </p>
+<p align="center"><em>"Code is not just logic — it's a bridge to a better world."</em> 💜</p>
