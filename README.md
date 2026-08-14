@@ -38,41 +38,31 @@
 
 ## 🛠️ Skills
 
-<table width="100%">
-<tr>
-<td align="center" width="16%"><b>Languages</b></td>
-<td width="84%">
-<img src="https://skillicons.dev/icons?i=kotlin,java,py,js,c" height="45"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Android</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,materialui" height="45"/>
-&nbsp;&nbsp;<code>Jetpack Compose</code> &nbsp;<code>MVVM</code> &nbsp;<code>Navigation Component</code>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Web</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="45"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Databases</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=firebase,mysql" height="45"/>
-&nbsp;&nbsp;<code>Room DB</code>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv" height="45"/>
-&nbsp;&nbsp;<code>Google AI Studio</code>
-</td>
-</tr>
-</table>
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,py,js,c" height="50"/>
+
+<br/>
+
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="50"/>
+
+<br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=firebase,mysql" height="50"/>
+
+<br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv" height="50"/>
+
+</div>
 
 ---
 
