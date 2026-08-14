@@ -1,40 +1,50 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D2D2D&height=180&section=header&text=Kavana%20M%20P&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Android%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi%20There!%20I'm%20Kavana%20M%20P%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=58&descSize=18" width="100%"/>
 </div>
-
+<br/>
+<p align="center"><em>✨ "Code is not just logic — it's a bridge to a better world." ✨</em></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kavana-m-p-480617339/">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:kavanapacharya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://kavanamp.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/KAVANAMP">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+<br/>
 
 ---
 
-## About
+## 🙋‍♀️ About Me
 
-Computer Science & Engineering graduate (CGPA 8.7) from Shree Devi Institute of Technology, Mangalore, with hands-on experience across Android and full-stack web development.
+**Computer Science & Engineering graduate (CGPA 8.7)** from Shree Devi Institute of Technology, Mangalore, with hands-on experience across Android and full-stack web development.
 
-- Built **Grama Angana**, a full-stack Android community hall booking application using Kotlin, Jetpack Compose, and Firebase
-- Developed an AI-assisted **Braille-to-Text & Voice Translator** to support visually impaired users
-- Completed internships in Android development, full-stack engineering, and Java full-stack development
-- Currently expanding into React and strengthening core Data Structures & Algorithms
-- Open to Software Engineering and Android Developer roles
+| | |
+|---|---|
+| 🎓 **Education** | B.E. in Computer Science & Engineering, CGPA 8.7 |
+| 📱 **Focus Areas** | Android Development (Kotlin, Jetpack Compose, Firebase) & Full Stack Web |
+| 🏘️ **Flagship Project** | Grama Angana — full-stack Android community hall booking app |
+| 🦾 **AI Project** | Braille-to-Text & Voice Translator for visually impaired users |
+| 💼 **Experience** | Internships at MindMatrix (Android), Corizo Edutech (Full Stack), Besant Technologies (Java Full Stack) |
+| 📚 **Currently Learning** | React.js & advanced Data Structures & Algorithms |
+| 🤝 **Looking For** | Software Engineering / Android Developer roles |
 
 ---
 
-## Technical Skills
+## 🛠️ Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
 Kotlin · Java · Python · JavaScript · C
@@ -43,13 +53,23 @@ Kotlin · Java · Python · JavaScript · C
 Android Studio · Jetpack Compose · MVVM · Material Design 3 · Room DB · Navigation Component
 
 **Web Development**
-HTML5 · CSS3 · JavaScript · React · REST APIs
+HTML5 · CSS3 · JavaScript (ES6+) · React.js · REST APIs
+
+</td>
+<td valign="top" width="50%">
 
 **Databases**
-Firebase · MySQL · Room DB
+Firebase (Firestore) · MySQL · Room DB
 
 **Tools & Platforms**
-Git · GitHub · VS Code · Netlify · OpenCV · Google AI Studio
+Git · GitHub · VS Code · Netlify · Google AI Studio
+
+**Other**
+OpenCV · Image Processing · Generative AI Tools
+
+</td>
+</tr>
+</table>
 
 ---
 
